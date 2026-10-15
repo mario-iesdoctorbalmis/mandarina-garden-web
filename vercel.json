@@ -1,0 +1,439 @@
+{
+  "redirects": [
+    {
+      "source": "/ludoteca-magica-baby-resort.html",
+      "destination": "/ludoteca-magica-baby-resort",
+      "statusCode": 301
+    },
+    {
+      "source": "/espacio-cogrowing-coworking.html",
+      "destination": "/espacio-cogrowing-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/art-studio-para-ninos.html",
+      "destination": "/art-studio-para-ninos",
+      "statusCode": 301
+    },
+    {
+      "source": "/espacio-infantil-montessori-coworking.html",
+      "destination": "/espacio-infantil-montessori-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/campamentos-urbanos-dias-sin-cole.html",
+      "destination": "/campamentos-urbanos-dias-sin-cole",
+      "statusCode": 301
+    },
+    {
+      "source": "/talleres-actividades-infantiles.html",
+      "destination": "/talleres-actividades-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-printables.html",
+      "destination": "/mandarina-garden-printables",
+      "statusCode": 301
+    },
+    {
+      "source": "/ideas-celebrar-fiestas-cumples-infantiles.html",
+      "destination": "/ideas-celebrar-fiestas-cumples-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/animacion-cumples-eventos-infantiles.html",
+      "destination": "/animacion-cumples-eventos-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/fiestas-tematicas-y-especiales.html",
+      "destination": "/fiestas-tematicas-y-especiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/fiestas-pijama-party-infantiles.html",
+      "destination": "/fiestas-pijama-party-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/mesas-dulces-decoracion-comuniones.html",
+      "destination": "/mesas-dulces-decoracion-comuniones",
+      "statusCode": 301
+    },
+    {
+      "source": "/eventos-empresas-centros-comerciales.html",
+      "destination": "/eventos-empresas-centros-comerciales",
+      "statusCode": 301
+    },
+    {
+      "source": "/cafeteria-relax-slow-cafe.html",
+      "destination": "/cafeteria-relax-slow-cafe",
+      "statusCode": 301
+    },
+    {
+      "source": "/tartas-decoradas-encargos.html",
+      "destination": "/tartas-decoradas-encargos",
+      "statusCode": 301
+    },
+    {
+      "source": "/regala-desayuno-merienda-domicilio.html",
+      "destination": "/regala-desayuno-merienda-domicilio",
+      "statusCode": 301
+    },
+    {
+      "source": "/franquicia-cafeteria-ocio-infantil.html",
+      "destination": "/franquicia-cafeteria-ocio-infantil",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-alicante-playa-san-juan.html",
+      "destination": "/mandarina-garden-alicante-playa-san-juan",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-small-world-pau5.html",
+      "destination": "/mandarina-garden-small-world-pau5",
+      "statusCode": 301
+    },
+    {
+      "source": "/bakery-reposteria-dulces-barakaldo.html",
+      "destination": "/bakery-reposteria-dulces-barakaldo",
+      "statusCode": 301
+    },
+    {
+      "source": "/cafeteria-relax-peques-castrourdiales.html",
+      "destination": "/cafeteria-relax-peques-castrourdiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-castellar-del-valles.html",
+      "destination": "/mandarina-garden-castellar-del-valles",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-canaveral-madrid.html",
+      "destination": "/mandarina-garden-canaveral-madrid",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-parla.html",
+      "destination": "/mandarina-garden-parla",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-xativa.html",
+      "destination": "/mandarina-garden-xativa",
+      "statusCode": 301
+    },
+    {
+      "source": "/cafeteria-espacio-infantil-panama.html",
+      "destination": "/cafeteria-espacio-infantil-panama",
+      "statusCode": 301
+    },
+    {
+      "source": "/mandarina-garden-donde-estamos.html",
+      "destination": "/mandarina-garden-donde-estamos",
+      "statusCode": 301
+    },
+    {
+      "source": "/reserva-online.html",
+      "destination": "/reserva-online",
+      "statusCode": 301
+    },
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/ludoteca-magica-baby-resort.html",
+      "destination": "/en/ludoteca-magica-baby-resort",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/espacio-cogrowing-coworking.html",
+      "destination": "/en/espacio-cogrowing-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/art-studio-para-ninos.html",
+      "destination": "/en/art-studio-para-ninos",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/espacio-infantil-montessori-coworking.html",
+      "destination": "/en/espacio-infantil-montessori-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/campamentos-urbanos-dias-sin-cole.html",
+      "destination": "/en/campamentos-urbanos-dias-sin-cole",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/talleres-actividades-infantiles.html",
+      "destination": "/en/talleres-actividades-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-printables.html",
+      "destination": "/en/mandarina-garden-printables",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/ideas-celebrar-fiestas-cumples-infantiles.html",
+      "destination": "/en/ideas-celebrar-fiestas-cumples-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/animacion-cumples-eventos-infantiles.html",
+      "destination": "/en/animacion-cumples-eventos-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/fiestas-tematicas-y-especiales.html",
+      "destination": "/en/fiestas-tematicas-y-especiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/fiestas-pijama-party-infantiles.html",
+      "destination": "/en/fiestas-pijama-party-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mesas-dulces-decoracion-comuniones.html",
+      "destination": "/en/mesas-dulces-decoracion-comuniones",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/eventos-empresas-centros-comerciales.html",
+      "destination": "/en/eventos-empresas-centros-comerciales",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/cafeteria-relax-slow-cafe.html",
+      "destination": "/en/cafeteria-relax-slow-cafe",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/tartas-decoradas-encargos.html",
+      "destination": "/en/tartas-decoradas-encargos",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/regala-desayuno-merienda-domicilio.html",
+      "destination": "/en/regala-desayuno-merienda-domicilio",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/franquicia-cafeteria-ocio-infantil.html",
+      "destination": "/en/franquicia-cafeteria-ocio-infantil",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-alicante-playa-san-juan.html",
+      "destination": "/en/mandarina-garden-alicante-playa-san-juan",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-small-world-pau5.html",
+      "destination": "/en/mandarina-garden-small-world-pau5",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/bakery-reposteria-dulces-barakaldo.html",
+      "destination": "/en/bakery-reposteria-dulces-barakaldo",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/cafeteria-relax-peques-castrourdiales.html",
+      "destination": "/en/cafeteria-relax-peques-castrourdiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-castellar-del-valles.html",
+      "destination": "/en/mandarina-garden-castellar-del-valles",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-canaveral-madrid.html",
+      "destination": "/en/mandarina-garden-canaveral-madrid",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-parla.html",
+      "destination": "/en/mandarina-garden-parla",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-xativa.html",
+      "destination": "/en/mandarina-garden-xativa",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/cafeteria-espacio-infantil-panama.html",
+      "destination": "/en/cafeteria-espacio-infantil-panama",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/mandarina-garden-donde-estamos.html",
+      "destination": "/en/mandarina-garden-donde-estamos",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/reserva-online.html",
+      "destination": "/en/reserva-online",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/index.html",
+      "destination": "/en",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/ludoteca-magica-baby-resort.html",
+      "destination": "/ca/ludoteca-magica-baby-resort",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/espacio-cogrowing-coworking.html",
+      "destination": "/ca/espacio-cogrowing-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/art-studio-para-ninos.html",
+      "destination": "/ca/art-studio-para-ninos",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/espacio-infantil-montessori-coworking.html",
+      "destination": "/ca/espacio-infantil-montessori-coworking",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/campamentos-urbanos-dias-sin-cole.html",
+      "destination": "/ca/campamentos-urbanos-dias-sin-cole",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/talleres-actividades-infantiles.html",
+      "destination": "/ca/talleres-actividades-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-printables.html",
+      "destination": "/ca/mandarina-garden-printables",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/ideas-celebrar-fiestas-cumples-infantiles.html",
+      "destination": "/ca/ideas-celebrar-fiestas-cumples-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/animacion-cumples-eventos-infantiles.html",
+      "destination": "/ca/animacion-cumples-eventos-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/fiestas-tematicas-y-especiales.html",
+      "destination": "/ca/fiestas-tematicas-y-especiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/fiestas-pijama-party-infantiles.html",
+      "destination": "/ca/fiestas-pijama-party-infantiles",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mesas-dulces-decoracion-comuniones.html",
+      "destination": "/ca/mesas-dulces-decoracion-comuniones",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/eventos-empresas-centros-comerciales.html",
+      "destination": "/ca/eventos-empresas-centros-comerciales",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/cafeteria-relax-slow-cafe.html",
+      "destination": "/ca/cafeteria-relax-slow-cafe",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/tartas-decoradas-encargos.html",
+      "destination": "/ca/tartas-decoradas-encargos",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/regala-desayuno-merienda-domicilio.html",
+      "destination": "/ca/regala-desayuno-merienda-domicilio",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/franquicia-cafeteria-ocio-infantil.html",
+      "destination": "/ca/franquicia-cafeteria-ocio-infantil",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-alicante-playa-san-juan.html",
+      "destination": "/ca/mandarina-garden-alicante-playa-san-juan",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-small-world-pau5.html",
+      "destination": "/ca/mandarina-garden-small-world-pau5",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/bakery-reposteria-dulces-barakaldo.html",
+      "destination": "/ca/bakery-reposteria-dulces-barakaldo",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/cafeteria-relax-peques-castrourdiales.html",
+      "destination": "/ca/cafeteria-relax-peques-castrourdiales",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-castellar-del-valles.html",
+      "destination": "/ca/mandarina-garden-castellar-del-valles",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-canaveral-madrid.html",
+      "destination": "/ca/mandarina-garden-canaveral-madrid",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-parla.html",
+      "destination": "/ca/mandarina-garden-parla",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-xativa.html",
+      "destination": "/ca/mandarina-garden-xativa",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/cafeteria-espacio-infantil-panama.html",
+      "destination": "/ca/cafeteria-espacio-infantil-panama",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/mandarina-garden-donde-estamos.html",
+      "destination": "/ca/mandarina-garden-donde-estamos",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/reserva-online.html",
+      "destination": "/ca/reserva-online",
+      "statusCode": 301
+    },
+    {
+      "source": "/ca/index.html",
+      "destination": "/ca",
+      "statusCode": 301
+    }
+  ]
+}
