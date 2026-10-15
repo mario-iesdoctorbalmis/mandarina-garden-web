@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 24
           cache: npm
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
       - run: npm run generate
         env:
           NUXT_APP_BASE_URL: /${{ github.event.repository.name }}/
