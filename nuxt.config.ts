@@ -24,6 +24,9 @@ const vercelRedirects = redirects.split('\n').map((line) => {
 })
 writeFileSync(resolve(__dirname, 'vercel.json'), `${JSON.stringify({ redirects: vercelRedirects }, null, 2)}\n`)
 
+const isPreview = process.env.NUXT_PREVIEW === '1'
+const base = process.env.NUXT_APP_BASE_URL || '/'
+
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: false },
@@ -45,13 +48,19 @@ export default defineNuxtConfig({
   },
 
   sitemap: { autoLastmod: true },
-  robots: { sitemap: [`${SITE_URL}/sitemap_index.xml`] },
+  robots: isPreview
+    ? { disallow: ['/'] }
+    : { sitemap: [`${SITE_URL}/sitemap_index.xml`] },
   schemaOrg: { identity: { type: 'Organization', name: 'Mandarina Garden', url: SITE_URL, logo: `${SITE_URL}/logo.png` } },
 
   app: {
+    baseURL: base,
     head: {
-      link: [{ rel: 'icon', type: 'image/png', href: '/logo.png' }],
-      meta: [{ name: 'theme-color', content: '#F27438' }]
+      link: [{ rel: 'icon', type: 'image/png', href: `${base}logo.png` }],
+      meta: [
+        { name: 'theme-color', content: '#F27438' },
+        ...(isPreview ? [{ name: 'robots', content: 'noindex, nofollow' }] : [])
+      ]
     }
   },
 

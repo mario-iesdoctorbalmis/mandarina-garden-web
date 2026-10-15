@@ -2,6 +2,7 @@
 import { ENGLISH_SCHOOL_URL, ROUTES, services } from '~/data/site'
 
 const copy = useCopy()
+const baseURL = useRuntimeConfig().app.baseURL
 const lp = useLocalePath()
 const { center } = useCenter()
 const { locale, locales } = useI18n()
@@ -37,7 +38,7 @@ const wa = computed(() => whatsappLink(center.value.whatsapp, copy.value.common.
     <header class="header">
       <div class="container">
         <NuxtLink class="logo" :to="lp('/')" aria-label="Mandarina Garden">
-          <img src="/logo.png" alt="" width="42" height="42">
+          <img :src="`${baseURL}logo.png`" alt="" width="42" height="42">
           <span>Mandarina Garden</span>
         </NuxtLink>
 
